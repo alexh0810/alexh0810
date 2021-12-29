@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **baohoan081097@gmail.com**
 
-- ⚡ Fun fact **I also like making TikToks and Youtube videos xD**
+- ⚡ Fun fact **I am professionally trained Registerd Nurse 💉**
 
 
 <h3 align="left">Connect with me:</h3>
