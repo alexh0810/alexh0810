@@ -3,11 +3,16 @@
 
 - 🌱 I’m currently studying Software Engineering at **Haaga-Helia University of Applied Sciences**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexh0810](https://github.com/alexh0810)
+- 🍜 A ramen chef by day, (sleepless) coder by night
+
+- 🔎 I'm looking for opportunities to practice my tools and technologies and immerse into the daily working life of a software dev 
+
+- 👨‍💻 Take a look at my work at [https://github.com/alexh0810](https://github.com/alexh0810)
 
 - 📫 Reach me at **baohoan081097@gmail.com**
 
-- ⚡ Fun fact **I like making TikToks and Youtube videos xD**
+- ⚡ Fun fact **I also like making TikToks and Youtube videos xD**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
