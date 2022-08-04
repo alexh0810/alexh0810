@@ -11,8 +11,6 @@
 
 - 📫 Reach me at **baohoan081097@gmail.com**
 
-- ⚡ Fun fact **I am professionally trained Registered Nurse 💉**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
