@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Software Engineering at **Haaga-Helia University of Applied Sciences**
 
-- 🍜 A ramen chef by day, (sleepless) coder by night
+-  :exclamation: I'm currently joining a 5 months intensive training as a Full-stack developer @IntegrifyFinland. 
 
 - 🔎 I'm looking for opportunities to practice my tools and technologies and immerse into the daily working life of a software dev 
 
