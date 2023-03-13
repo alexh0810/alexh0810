@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Software Engineering at **Haaga-Helia University of Applied Sciences**
 
--  :exclamation: Graduated from a Full Stack Developer intensive course at @IntegrifyFinland. 
+-  :exclamation: Graduated from a Full Stack Developement & DevOps intensive course at @IntegrifyFinland. 
 
 - 🔎 I'm looking for opportunities to practice my tools and technologies and immerse into the daily working life of a software dev 
 
