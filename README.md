@@ -5,7 +5,7 @@
 
 -  :exclamation: Graduated from a Full Stack Developement & DevOps intensive course at @IntegrifyFinland. 
 
-- 🔎 I'm looking for opportunities to practice my tools and technologies and immerse into the daily working life of a software dev 
+- 🔎 I'm looking for opportunities in Front-end Development, Back-end Development and Full Stack Development.
 
 - 👨‍💻 Take a look at my work at [https://github.com/alexh0810](https://github.com/alexh0810)
 
