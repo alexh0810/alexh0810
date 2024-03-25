@@ -7,9 +7,9 @@
 
 - 🔎 I'm looking for opportunities in Front-end Development, Back-end Development and Full Stack Development.
 
-- 👨‍💻 Take a look at my work at [https://github.com/alexh0810](https://github.com/alexh0810)
+- 👨‍💻 Take a look at my work at [https://alex-ho-portfolio.vercel.app/]
 
-- 📫 Reach me at **baohoan081097@gmail.com**
+- 📫 Reach me at **alexhohoan@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
