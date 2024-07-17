@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">An aspiring software engineering student on track to become a Full Stack Developer</h3>
+<h3 align="center">Motivated Full Stack Developer with a frontend focus</h3>
 
 - 🌱 Business Information Technology graduate at **Haaga-Helia University of Applied Sciences**, majoring g in **Software Development**
 
