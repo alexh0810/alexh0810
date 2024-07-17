@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An aspiring software engineering student on track to become a Full Stack Developer</h3>
 
-- 🌱 I’m currently studying Software Engineering at **Haaga-Helia University of Applied Sciences**
+- 🌱 Business Information Technology graduate at **Haaga-Helia University of Applied Sciences**, majoring g in **Software Development**
 
 -  :exclamation: Graduated from a Full Stack Developement & DevOps intensive course at @IntegrifyFinland. 
 
 - 🔎 I'm looking for opportunities in Front-end Development, Back-end Development and Full Stack Development.
 
-- 👨‍💻 Take a look at my work at [https://alex-ho-portfolio.vercel.app/]
+- 👨‍💻 Take a look at my work at [https://alex-ho-portfolio.vercel.app/
 
 - 📫 Reach me at **alexhohoan@gmail.com**
 
