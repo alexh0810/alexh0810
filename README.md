@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Motivated Full Stack Developer with a frontend focus</h3>
 
-- 🌱 Business Information Technology graduate at **Haaga-Helia University of Applied Sciences**, majoring g in **Software Development**
+- 🌱 Business Information Technology graduate at **Haaga-Helia University of Applied Sciences**, majoring in **Software Development**
 
 -  :exclamation: Graduated from a Full Stack Developement & DevOps intensive course at @IntegrifyFinland. 
 
